@@ -1,0 +1,366 @@
+{
+  "status": "done",
+  "assets": {
+    "img/10_of_clubs.c29b28f3.png": {
+      "name": "img/10_of_clubs.c29b28f3.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/10_of_clubs.c29b28f3.png",
+      "publicPath": "http://0.0.0.0:8080/img/10_of_clubs.c29b28f3.png"
+    },
+    "img/10_of_diamonds.4324d712.png": {
+      "name": "img/10_of_diamonds.4324d712.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/10_of_diamonds.4324d712.png",
+      "publicPath": "http://0.0.0.0:8080/img/10_of_diamonds.4324d712.png"
+    },
+    "img/10_of_hearts.2e6327a6.png": {
+      "name": "img/10_of_hearts.2e6327a6.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/10_of_hearts.2e6327a6.png",
+      "publicPath": "http://0.0.0.0:8080/img/10_of_hearts.2e6327a6.png"
+    },
+    "img/10_of_spades.2401fe36.png": {
+      "name": "img/10_of_spades.2401fe36.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/10_of_spades.2401fe36.png",
+      "publicPath": "http://0.0.0.0:8080/img/10_of_spades.2401fe36.png"
+    },
+    "img/2_of_clubs.c83a7af4.png": {
+      "name": "img/2_of_clubs.c83a7af4.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/2_of_clubs.c83a7af4.png",
+      "publicPath": "http://0.0.0.0:8080/img/2_of_clubs.c83a7af4.png"
+    },
+    "img/2_of_diamonds.0b5b5249.png": {
+      "name": "img/2_of_diamonds.0b5b5249.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/2_of_diamonds.0b5b5249.png",
+      "publicPath": "http://0.0.0.0:8080/img/2_of_diamonds.0b5b5249.png"
+    },
+    "img/2_of_hearts.f97ad85b.png": {
+      "name": "img/2_of_hearts.f97ad85b.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/2_of_hearts.f97ad85b.png",
+      "publicPath": "http://0.0.0.0:8080/img/2_of_hearts.f97ad85b.png"
+    },
+    "img/2_of_spades.2354275d.png": {
+      "name": "img/2_of_spades.2354275d.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/2_of_spades.2354275d.png",
+      "publicPath": "http://0.0.0.0:8080/img/2_of_spades.2354275d.png"
+    },
+    "img/3_of_clubs.23a7a6ac.png": {
+      "name": "img/3_of_clubs.23a7a6ac.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/3_of_clubs.23a7a6ac.png",
+      "publicPath": "http://0.0.0.0:8080/img/3_of_clubs.23a7a6ac.png"
+    },
+    "img/3_of_diamonds.b529e1c1.png": {
+      "name": "img/3_of_diamonds.b529e1c1.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/3_of_diamonds.b529e1c1.png",
+      "publicPath": "http://0.0.0.0:8080/img/3_of_diamonds.b529e1c1.png"
+    },
+    "img/3_of_hearts.1c16fe10.png": {
+      "name": "img/3_of_hearts.1c16fe10.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/3_of_hearts.1c16fe10.png",
+      "publicPath": "http://0.0.0.0:8080/img/3_of_hearts.1c16fe10.png"
+    },
+    "img/3_of_spades.ad02dc95.png": {
+      "name": "img/3_of_spades.ad02dc95.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/3_of_spades.ad02dc95.png",
+      "publicPath": "http://0.0.0.0:8080/img/3_of_spades.ad02dc95.png"
+    },
+    "img/4_of_clubs.02deab49.png": {
+      "name": "img/4_of_clubs.02deab49.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/4_of_clubs.02deab49.png",
+      "publicPath": "http://0.0.0.0:8080/img/4_of_clubs.02deab49.png"
+    },
+    "img/4_of_diamonds.58bd0a63.png": {
+      "name": "img/4_of_diamonds.58bd0a63.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/4_of_diamonds.58bd0a63.png",
+      "publicPath": "http://0.0.0.0:8080/img/4_of_diamonds.58bd0a63.png"
+    },
+    "img/4_of_hearts.5ad913da.png": {
+      "name": "img/4_of_hearts.5ad913da.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/4_of_hearts.5ad913da.png",
+      "publicPath": "http://0.0.0.0:8080/img/4_of_hearts.5ad913da.png"
+    },
+    "img/4_of_spades.df185c63.png": {
+      "name": "img/4_of_spades.df185c63.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/4_of_spades.df185c63.png",
+      "publicPath": "http://0.0.0.0:8080/img/4_of_spades.df185c63.png"
+    },
+    "img/5_of_clubs.3781bf44.png": {
+      "name": "img/5_of_clubs.3781bf44.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/5_of_clubs.3781bf44.png",
+      "publicPath": "http://0.0.0.0:8080/img/5_of_clubs.3781bf44.png"
+    },
+    "img/5_of_diamonds.e27b4b0a.png": {
+      "name": "img/5_of_diamonds.e27b4b0a.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/5_of_diamonds.e27b4b0a.png",
+      "publicPath": "http://0.0.0.0:8080/img/5_of_diamonds.e27b4b0a.png"
+    },
+    "img/5_of_hearts.8f6a2068.png": {
+      "name": "img/5_of_hearts.8f6a2068.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/5_of_hearts.8f6a2068.png",
+      "publicPath": "http://0.0.0.0:8080/img/5_of_hearts.8f6a2068.png"
+    },
+    "img/5_of_spades.aa8a0720.png": {
+      "name": "img/5_of_spades.aa8a0720.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/5_of_spades.aa8a0720.png",
+      "publicPath": "http://0.0.0.0:8080/img/5_of_spades.aa8a0720.png"
+    },
+    "img/6_of_clubs.9c2fdf6a.png": {
+      "name": "img/6_of_clubs.9c2fdf6a.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/6_of_clubs.9c2fdf6a.png",
+      "publicPath": "http://0.0.0.0:8080/img/6_of_clubs.9c2fdf6a.png"
+    },
+    "img/6_of_diamonds.ee5053d4.png": {
+      "name": "img/6_of_diamonds.ee5053d4.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/6_of_diamonds.ee5053d4.png",
+      "publicPath": "http://0.0.0.0:8080/img/6_of_diamonds.ee5053d4.png"
+    },
+    "img/6_of_hearts.9cd2258c.png": {
+      "name": "img/6_of_hearts.9cd2258c.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/6_of_hearts.9cd2258c.png",
+      "publicPath": "http://0.0.0.0:8080/img/6_of_hearts.9cd2258c.png"
+    },
+    "img/6_of_spades.5d221b2a.png": {
+      "name": "img/6_of_spades.5d221b2a.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/6_of_spades.5d221b2a.png",
+      "publicPath": "http://0.0.0.0:8080/img/6_of_spades.5d221b2a.png"
+    },
+    "img/7_of_clubs.112be1df.png": {
+      "name": "img/7_of_clubs.112be1df.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/7_of_clubs.112be1df.png",
+      "publicPath": "http://0.0.0.0:8080/img/7_of_clubs.112be1df.png"
+    },
+    "img/7_of_diamonds.df3e8e93.png": {
+      "name": "img/7_of_diamonds.df3e8e93.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/7_of_diamonds.df3e8e93.png",
+      "publicPath": "http://0.0.0.0:8080/img/7_of_diamonds.df3e8e93.png"
+    },
+    "img/7_of_hearts.a9afa10f.png": {
+      "name": "img/7_of_hearts.a9afa10f.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/7_of_hearts.a9afa10f.png",
+      "publicPath": "http://0.0.0.0:8080/img/7_of_hearts.a9afa10f.png"
+    },
+    "img/7_of_spades.c0f5e5f9.png": {
+      "name": "img/7_of_spades.c0f5e5f9.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/7_of_spades.c0f5e5f9.png",
+      "publicPath": "http://0.0.0.0:8080/img/7_of_spades.c0f5e5f9.png"
+    },
+    "img/8_of_clubs.6ed0b85e.png": {
+      "name": "img/8_of_clubs.6ed0b85e.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/8_of_clubs.6ed0b85e.png",
+      "publicPath": "http://0.0.0.0:8080/img/8_of_clubs.6ed0b85e.png"
+    },
+    "img/8_of_diamonds.8afee604.png": {
+      "name": "img/8_of_diamonds.8afee604.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/8_of_diamonds.8afee604.png",
+      "publicPath": "http://0.0.0.0:8080/img/8_of_diamonds.8afee604.png"
+    },
+    "img/8_of_hearts.e6c01b13.png": {
+      "name": "img/8_of_hearts.e6c01b13.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/8_of_hearts.e6c01b13.png",
+      "publicPath": "http://0.0.0.0:8080/img/8_of_hearts.e6c01b13.png"
+    },
+    "img/8_of_spades.74766755.png": {
+      "name": "img/8_of_spades.74766755.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/8_of_spades.74766755.png",
+      "publicPath": "http://0.0.0.0:8080/img/8_of_spades.74766755.png"
+    },
+    "img/9_of_clubs.784ea770.png": {
+      "name": "img/9_of_clubs.784ea770.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/9_of_clubs.784ea770.png",
+      "publicPath": "http://0.0.0.0:8080/img/9_of_clubs.784ea770.png"
+    },
+    "img/9_of_diamonds.86608eb9.png": {
+      "name": "img/9_of_diamonds.86608eb9.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/9_of_diamonds.86608eb9.png",
+      "publicPath": "http://0.0.0.0:8080/img/9_of_diamonds.86608eb9.png"
+    },
+    "img/9_of_hearts.cdb8fda5.png": {
+      "name": "img/9_of_hearts.cdb8fda5.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/9_of_hearts.cdb8fda5.png",
+      "publicPath": "http://0.0.0.0:8080/img/9_of_hearts.cdb8fda5.png"
+    },
+    "img/9_of_spades.e5b29fde.png": {
+      "name": "img/9_of_spades.e5b29fde.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/9_of_spades.e5b29fde.png",
+      "publicPath": "http://0.0.0.0:8080/img/9_of_spades.e5b29fde.png"
+    },
+    "img/ace_of_clubs.07d1c180.png": {
+      "name": "img/ace_of_clubs.07d1c180.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/ace_of_clubs.07d1c180.png",
+      "publicPath": "http://0.0.0.0:8080/img/ace_of_clubs.07d1c180.png"
+    },
+    "img/ace_of_diamonds.60b16fda.png": {
+      "name": "img/ace_of_diamonds.60b16fda.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/ace_of_diamonds.60b16fda.png",
+      "publicPath": "http://0.0.0.0:8080/img/ace_of_diamonds.60b16fda.png"
+    },
+    "img/ace_of_hearts.41453bfa.png": {
+      "name": "img/ace_of_hearts.41453bfa.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/ace_of_hearts.41453bfa.png",
+      "publicPath": "http://0.0.0.0:8080/img/ace_of_hearts.41453bfa.png"
+    },
+    "img/ace_of_spades.ce4f163f.png": {
+      "name": "img/ace_of_spades.ce4f163f.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/ace_of_spades.ce4f163f.png",
+      "publicPath": "http://0.0.0.0:8080/img/ace_of_spades.ce4f163f.png"
+    },
+    "img/ace_of_spades2.3c00788a.png": {
+      "name": "img/ace_of_spades2.3c00788a.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/ace_of_spades2.3c00788a.png",
+      "publicPath": "http://0.0.0.0:8080/img/ace_of_spades2.3c00788a.png"
+    },
+    "img/back_card.0cbc660c.png": {
+      "name": "img/back_card.0cbc660c.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/back_card.0cbc660c.png",
+      "publicPath": "http://0.0.0.0:8080/img/back_card.0cbc660c.png"
+    },
+    "img/black_joker.21cc92db.png": {
+      "name": "img/black_joker.21cc92db.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/black_joker.21cc92db.png",
+      "publicPath": "http://0.0.0.0:8080/img/black_joker.21cc92db.png"
+    },
+    "img/jack_of_clubs.1861c1e4.png": {
+      "name": "img/jack_of_clubs.1861c1e4.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/jack_of_clubs.1861c1e4.png",
+      "publicPath": "http://0.0.0.0:8080/img/jack_of_clubs.1861c1e4.png"
+    },
+    "img/jack_of_clubs2.d96ecf4f.png": {
+      "name": "img/jack_of_clubs2.d96ecf4f.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/jack_of_clubs2.d96ecf4f.png",
+      "publicPath": "http://0.0.0.0:8080/img/jack_of_clubs2.d96ecf4f.png"
+    },
+    "img/jack_of_diamonds.ac2092c1.png": {
+      "name": "img/jack_of_diamonds.ac2092c1.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/jack_of_diamonds.ac2092c1.png",
+      "publicPath": "http://0.0.0.0:8080/img/jack_of_diamonds.ac2092c1.png"
+    },
+    "img/jack_of_diamonds2.c936f66e.png": {
+      "name": "img/jack_of_diamonds2.c936f66e.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/jack_of_diamonds2.c936f66e.png",
+      "publicPath": "http://0.0.0.0:8080/img/jack_of_diamonds2.c936f66e.png"
+    },
+    "img/jack_of_hearts.260cdba6.png": {
+      "name": "img/jack_of_hearts.260cdba6.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/jack_of_hearts.260cdba6.png",
+      "publicPath": "http://0.0.0.0:8080/img/jack_of_hearts.260cdba6.png"
+    },
+    "img/jack_of_hearts2.9be659a7.png": {
+      "name": "img/jack_of_hearts2.9be659a7.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/jack_of_hearts2.9be659a7.png",
+      "publicPath": "http://0.0.0.0:8080/img/jack_of_hearts2.9be659a7.png"
+    },
+    "img/jack_of_spades.92aff044.png": {
+      "name": "img/jack_of_spades.92aff044.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/jack_of_spades.92aff044.png",
+      "publicPath": "http://0.0.0.0:8080/img/jack_of_spades.92aff044.png"
+    },
+    "img/jack_of_spades2.d77ce402.png": {
+      "name": "img/jack_of_spades2.d77ce402.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/jack_of_spades2.d77ce402.png",
+      "publicPath": "http://0.0.0.0:8080/img/jack_of_spades2.d77ce402.png"
+    },
+    "img/king_of_clubs.2ad9bff3.png": {
+      "name": "img/king_of_clubs.2ad9bff3.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/king_of_clubs.2ad9bff3.png",
+      "publicPath": "http://0.0.0.0:8080/img/king_of_clubs.2ad9bff3.png"
+    },
+    "img/king_of_clubs2.f0dc748d.png": {
+      "name": "img/king_of_clubs2.f0dc748d.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/king_of_clubs2.f0dc748d.png",
+      "publicPath": "http://0.0.0.0:8080/img/king_of_clubs2.f0dc748d.png"
+    },
+    "img/king_of_diamonds.1a5882a6.png": {
+      "name": "img/king_of_diamonds.1a5882a6.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/king_of_diamonds.1a5882a6.png",
+      "publicPath": "http://0.0.0.0:8080/img/king_of_diamonds.1a5882a6.png"
+    },
+    "img/king_of_diamonds2.9588f72f.png": {
+      "name": "img/king_of_diamonds2.9588f72f.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/king_of_diamonds2.9588f72f.png",
+      "publicPath": "http://0.0.0.0:8080/img/king_of_diamonds2.9588f72f.png"
+    },
+    "img/king_of_hearts.37b5b9d7.png": {
+      "name": "img/king_of_hearts.37b5b9d7.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/king_of_hearts.37b5b9d7.png",
+      "publicPath": "http://0.0.0.0:8080/img/king_of_hearts.37b5b9d7.png"
+    },
+    "img/king_of_hearts2.e8d050e1.png": {
+      "name": "img/king_of_hearts2.e8d050e1.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/king_of_hearts2.e8d050e1.png",
+      "publicPath": "http://0.0.0.0:8080/img/king_of_hearts2.e8d050e1.png"
+    },
+    "img/king_of_spades.9b18a729.png": {
+      "name": "img/king_of_spades.9b18a729.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/king_of_spades.9b18a729.png",
+      "publicPath": "http://0.0.0.0:8080/img/king_of_spades.9b18a729.png"
+    },
+    "img/king_of_spades2.aebc913c.png": {
+      "name": "img/king_of_spades2.aebc913c.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/king_of_spades2.aebc913c.png",
+      "publicPath": "http://0.0.0.0:8080/img/king_of_spades2.aebc913c.png"
+    },
+    "img/queen_of_clubs.9e84dd75.png": {
+      "name": "img/queen_of_clubs.9e84dd75.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/queen_of_clubs.9e84dd75.png",
+      "publicPath": "http://0.0.0.0:8080/img/queen_of_clubs.9e84dd75.png"
+    },
+    "img/queen_of_clubs2.fd943099.png": {
+      "name": "img/queen_of_clubs2.fd943099.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/queen_of_clubs2.fd943099.png",
+      "publicPath": "http://0.0.0.0:8080/img/queen_of_clubs2.fd943099.png"
+    },
+    "img/queen_of_diamonds.d5647c19.png": {
+      "name": "img/queen_of_diamonds.d5647c19.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/queen_of_diamonds.d5647c19.png",
+      "publicPath": "http://0.0.0.0:8080/img/queen_of_diamonds.d5647c19.png"
+    },
+    "img/queen_of_diamonds2.f91b8d27.png": {
+      "name": "img/queen_of_diamonds2.f91b8d27.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/queen_of_diamonds2.f91b8d27.png",
+      "publicPath": "http://0.0.0.0:8080/img/queen_of_diamonds2.f91b8d27.png"
+    },
+    "img/queen_of_hearts.cf894646.png": {
+      "name": "img/queen_of_hearts.cf894646.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/queen_of_hearts.cf894646.png",
+      "publicPath": "http://0.0.0.0:8080/img/queen_of_hearts.cf894646.png"
+    },
+    "img/queen_of_hearts2.8065dc2a.png": {
+      "name": "img/queen_of_hearts2.8065dc2a.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/queen_of_hearts2.8065dc2a.png",
+      "publicPath": "http://0.0.0.0:8080/img/queen_of_hearts2.8065dc2a.png"
+    },
+    "img/queen_of_spades.6d100fc3.png": {
+      "name": "img/queen_of_spades.6d100fc3.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/queen_of_spades.6d100fc3.png",
+      "publicPath": "http://0.0.0.0:8080/img/queen_of_spades.6d100fc3.png"
+    },
+    "img/queen_of_spades2.445df3cf.png": {
+      "name": "img/queen_of_spades2.445df3cf.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/queen_of_spades2.445df3cf.png",
+      "publicPath": "http://0.0.0.0:8080/img/queen_of_spades2.445df3cf.png"
+    },
+    "img/red_joker.032874af.png": {
+      "name": "img/red_joker.032874af.png",
+      "path": "/home/erick/Curso/poker/frontend/dist/img/red_joker.032874af.png",
+      "publicPath": "http://0.0.0.0:8080/img/red_joker.032874af.png"
+    },
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "/home/erick/Curso/poker/frontend/dist/js/app.js",
+      "publicPath": "http://0.0.0.0:8080/js/app.js"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/home/erick/Curso/poker/frontend/dist/index.html",
+      "publicPath": "http://0.0.0.0:8080/index.html"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/home/erick/Curso/poker/frontend/dist/favicon.ico",
+      "publicPath": "http://0.0.0.0:8080/favicon.ico"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/app.js"
+    ]
+  },
+  "publicPath": "http://0.0.0.0:8080/"
+}
